@@ -1,4 +1,4 @@
-# Hi there, I'm Shalvendra SIngh 👋 
+# Hi there, I'm Shalvendra Singh 👋 
 ### Generative AI / LLM Engineer 🤖🚀
 
 I specialize in building production-ready, scalable AI solutions using Advanced RAG, Agentic Workflows, and Finetuned Large Language Models. I bridge the gap between cutting-edge AI research and real-world software engineering.
